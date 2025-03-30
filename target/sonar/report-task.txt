@@ -1,0 +1,6 @@
+projectKey=multilang-integration-test
+serverUrl=http://54.225.78.240:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://54.225.78.240:9000/dashboard?id=multilang-integration-test
+ceTaskId=04a34d1f-c45f-4fc0-bc74-7e5c4834f0ce
+ceTaskUrl=http://54.225.78.240:9000/api/ce/task?id=04a34d1f-c45f-4fc0-bc74-7e5c4834f0ce
